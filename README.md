@@ -9,6 +9,7 @@
 - numpy
 - librosa
 - sklearn
+- tkinter
 
 **Использование**
 
